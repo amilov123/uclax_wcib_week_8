@@ -1,0 +1,251 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #222222;
+  font-size: 16px;
+  font-weight: 400;
+  /*.details-1{
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+  }
+  .details-2{
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+  }
+  .details-3{
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+  }
+  .details-4{
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+  }
+  .details-5{
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+  }
+  .details-6{
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+  }*/ }
+  body body h1 {
+    font-weight: 700;
+    font-size: 70px;
+    letter-spacing: -4px;
+    padding-top: 8rem; }
+  body body h2 {
+    font-weight: 700;
+    font-size: 44px;
+    padding-right: 1rem;
+    padding-left: 1rem; }
+  body body h3 {
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 1px; }
+  body body h4 {
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 7rem;
+    padding-right: 10rem; }
+  body .navbar-custom {
+    background-color: #3bafe4; }
+  body .subtitle {
+    padding-left: 22%;
+    padding-right: 22%;
+    font-weight: 200; }
+  body .nav ul {
+    list-style: none;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 0; }
+  body .nav ul li {
+    display: inline;
+    padding-left: 20px; }
+  body .nav .nav-links {
+    color: white;
+    padding-bottom: 5px; }
+  body .nav .nav-links:hover {
+    text-decoration: none;
+    border-bottom-color: white;
+    border-bottom-width: 3px;
+    border-bottom-style: solid; }
+  body .row {
+    background: #3bafe4; }
+  body .downloadlearnmore {
+    padding-top: 100px; }
+  body .header-area {
+    padding: 50px 50px 20px 50px;
+    background: #3bafe4 url("../images/background_white.png") repeat-x bottom; }
+  body .hero-left {
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    color: #fff; }
+  body .getit {
+    background-color: white;
+    color: black;
+    padding-bottom: 30px; }
+  body .button-download {
+    margin-left: 1rem;
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 20px;
+    letter-spacing: 1px; }
+  body .button-download:hover {
+    background-color: white;
+    color: #222222;
+    box-shadow: 10px 5px 8px rgba(34, 34, 34, 0.33); }
+  body .button-learn-more {
+    margin-left: 1rem;
+    background-color: transparent;
+    margin-left: 30px;
+    color: white;
+    letter-spacing: 1px;
+    border: none; }
+  body .button-learn-more:hover {
+    border-bottom-color: white;
+    border-bottom-width: 3px;
+    border-bottom-style: solid; }
+  body .button-new {
+    background-color: #268df5;
+    font-size: 9px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 5px 8px rgba(38, 141, 245, 0.5);
+    letter-spacing: 1px; }
+  body .price {
+    background: white;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px; }
+    body .price.alt {
+      background: blue;
+      color: white;
+      border-radius: 5px;
+      padding-top: 20px;
+      padding-bottom: 10px; }
+  body .license {
+    background: black; }
+    body .license h2 {
+      color: white; }
+  body .subscribe {
+    background: gray;
+    background-image: url(../images/bg.png), url(../images/cliffs.png);
+    background-size: cover;
+    color: white;
+    padding-top: 5rem;
+    padding-bottom: 7rem; }
+  body .subscribe .user-email {
+    border: none;
+    background-color: rgba(146, 146, 146, 0.33);
+    border-radius: 5px;
+    padding: 0.8rem;
+    font-size: 11px;
+    width: 350px; }
+  body .subscribe .email-button {
+    background-color: white;
+    border: none;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    border-radius: 5px;
+    font-size: 11px;
+    font-weight: 700;
+    box-shadow: 10px 5px 8px #222222;
+    letter-spacing: 1px;
+    margin-left: -20px; }
+  @media (max-width: 450px) {
+    body .subscribe .email-button {
+      width: 80%; } }
+  body .green {
+    color: #8FD896; }
+  body .btn-custom {
+    background-color: white;
+    color: black;
+    border: 2px solid blue;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px; }
+  body .whitebutton {
+    color: black;
+    border: 2px solid blue;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px; }
+  body .subscribe {
+    background: gray;
+    background-image: url(../images/bg.png), url(../images/cliffs.png);
+    color: white;
+    padding-top: 30px;
+    height: 340px; }
+  body .email-form {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px; }
+  body .form-area {
+    padding: 20px; }
+    body .form-area .form-inline input {
+      background-color: rgba(255, 255, 255, 0.5); }
+    body .form-area .form-inline .btn {
+      margin-left: -20px; }
+  body .details {
+    background-color: #f5f4f4;
+    padding: 35px; }
+  body .more-details {
+    background-color: #f5f4f4; }
+  body footer {
+    background-color: white;
+    padding-top: 3rem; }
+  body .text-right {
+    background-color: white; }
+  body .bottom-nav {
+    margin-bottom: 5rem; }
+  body .bottom-nav div ul {
+    list-style: none; }
+  body .bottom-nav div ul li {
+    font-weight: 700;
+    font-size: 11px;
+    display: inline;
+    padding-left: 1rem;
+    padding-right: 1rem; }
+  @media (max-width: 768px) {
+    body .bottom-nav {
+      margin-bottom: 1rem; } }
+  body .social-media {
+    padding-left: 1rem; }
+  body .bottom-nav-links {
+    color: #222222; }
+  body .bottom-nav-links:hover {
+    text-decoration: none;
+    border-bottom-style: solid;
+    border-bottom-color: #222222;
+    border-bottom-width: 3px; }
+  body .footer-description {
+    color: #747474;
+    font-size: 11px; }
+  body .centerednav {
+    background-color: white; }
+  body .bottom-nav-center {
+    display: inline-block;
+    background-color: white; }
+    body .bottom-nav-center .bottom-nav {
+      background-color: white; }
